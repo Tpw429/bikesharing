@@ -43,3 +43,5 @@ Given the scope of our project I took away several keys points which weill help 
 - Peak Hours are Monday-Friday from 7am-10am and Monday-Friday 4pm-8pm (Typical work start/end times)
 - Dead times which we should do repairs are from 2am-4am. These are ther hours where we have low usage.
 - Many of our starting and ending locations are quite close to one another, but we should explore where to move the bikes more during the night to meet customer needs.
+
+Two of the additional plots I created were the starting and ending location plots shown above. These will be quite useful as we dive deeper into moving our bicycles around during the night time.
