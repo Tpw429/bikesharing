@@ -6,6 +6,8 @@ In this project, I explored bike riding data throughout New York City. I looked 
 
 ## Results of Tableau Analysis
 
+![BikevsDuration](Resources/BikevsDuration.PNG)
+
 
 
 
