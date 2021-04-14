@@ -13,7 +13,7 @@ In this project, I explored bike riding data throughout New York City. I looked 
 
 ![tripsbyweekday](Resources/tripsbyweekday.PNG)
 
-![](Resources/.PNG)
+![tripsbygender1](Resources/tripsbygender1.PNG)
 
 
 
