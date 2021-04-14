@@ -22,6 +22,7 @@ To take this analysis one step further, I wanted to see if the gender affected t
 
 ![tripsbygender1](Resources/tripsbygender1.PNG)
 
+The last piece of data I wanted to explore was the customer vs. subscriber data for males, females, and unknown bikers. Once again, men dominated the subscriber trip count category for each day of the week, however I did notice for the customer count, the male and female data was very similar. One thought that popped into my head was that most males are subscribers to this service. The results to this can be found below.
 
 ![tripsbygenderbyweekday](Resources/tripsbygenderbyweekday.PNG)
 
