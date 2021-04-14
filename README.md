@@ -18,7 +18,10 @@ I also wanted to analyze which days of the week were most popular to ride on. To
 
 ![tripsbyweekday](Resources/tripsbyweekday.PNG)
 
+To take this analysis one step further, I wanted to see if the gender affected trips by weekday. Instead of clustering the gender data, I wanted to compare each side by side, so that I could see any anamolies in the dataset. Unfortunately, I really didn't find anything out of the ordinary. However, one thing I did notice was that females did not bike much during Monday-Friday from 10am-3pm, but on Saturday and Sunday they biked much more during this time frame. The results of this can be found on the heatmap below.
+
 ![tripsbygender1](Resources/tripsbygender1.PNG)
+
 
 ![tripsbygenderbyweekday](Resources/tripsbygenderbyweekday.PNG)
 
