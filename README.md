@@ -11,6 +11,10 @@ In this project, I explored bike riding data throughout New York City. I looked 
 ![DurationvsGender](Resources/DurationvsGender.PNG)
 
 
+![tripsbyweekday](Resources/tripsbyweekday.PNG)
+
+![tripsbyweekday](Resources/tripsbyweekday.PNG)
+
 
 
 
