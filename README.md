@@ -6,9 +6,15 @@ In this project, I explored bike riding data throughout New York City. I looked 
 
 ## Results of Tableau Analysis
 
+The first graphic I would like to discuss is about the number of rides by trip duration for our dataset broken down by hours in minutes. The results can be shown below.
+
 ![BikevsDuration](Resources/BikevsDuration.PNG)
 
+To take this analysis one step further, I divided the number of riders from each gender and displayed the new graph below. As you can see, male rides tend to ride for a longer time than females and unknown riders. This graph is shown below.
+
 ![DurationvsGender](Resources/DurationvsGender.PNG)
+
+I also wanted to analyze which days of the week were most popular to ride on. To display this, I divided the data by gender, day of the week, and time of day. One again, we see that male riders are riding the most. In addition, we can really see the peak riding hours in this chart. We can see that from Monday-Friday riding is most popular between the times of 7am-10am as well as Monday-Friday from 4pm-8pm. The results of this are shown in the plot below.
 
 ![tripsbyweekday](Resources/tripsbyweekday.PNG)
 
