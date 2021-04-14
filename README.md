@@ -26,5 +26,8 @@ The last piece of data I wanted to explore was the customer vs. subscriber data 
 
 ![tripsbygenderbyweekday](Resources/tripsbygenderbyweekday.PNG)
 
+Another plot I was able to generate through Tableau that I though could bring value to this project was displaying the start routes for bikers. This way, we could see which stations are being used the most and allocate our resources to ensure these stations succeed.
 
+
+![StartingLocations](Resources/StartingLocations.PNG)
 
