@@ -8,6 +8,8 @@ In this project, I explored bike riding data throughout New York City. I looked 
 
 ![BikevsDuration](Resources/BikevsDuration.PNG)
 
+![DurationvsGender](Resources/DurationvsGender.PNG)
+
 
 
 
