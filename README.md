@@ -28,6 +28,10 @@ The last piece of data I wanted to explore was the customer vs. subscriber data 
 
 Another plot I was able to generate through Tableau that I though could bring value to this project was displaying the start routes for bikers. This way, we could see which stations are being used the most and allocate our resources to ensure these stations succeed.
 
-
 ![StartingLocations](Resources/StartingLocations.PNG)
+
+On the other hand, I also wanted to see which places were popular ending spots for routes. This could be important for moving bicycles during the night time. If we know one area will have tons of morning riders, while others are dead zones, we may want to move bikes for the users. A figure of common ending locations can be found below.
+
+
+![EndingLocations](Resources/EndingLocations.PNG)
 
