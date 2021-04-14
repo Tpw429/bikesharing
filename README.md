@@ -32,6 +32,14 @@ Another plot I was able to generate through Tableau that I though could bring va
 
 On the other hand, I also wanted to see which places were popular ending spots for routes. This could be important for moving bicycles during the night time. If we know one area will have tons of morning riders, while others are dead zones, we may want to move bikes for the users. A figure of common ending locations can be found below.
 
-
 ![EndingLocations](Resources/EndingLocations.PNG)
 
+## Summary
+
+Given the scope of our project I took away several keys points which weill help us plan for the future. These will help us plan things like resource allocation, bike stations, and repair times. The findings were as follows:
+
+- Males tend to use our bikes longer
+- Males also go on more rides, so they are the largest customer base for our company
+- Peak Hours are Monday-Friday from 7am-10am and Monday-Friday 4pm-8pm (Typical work start/end times)
+- Dead times which we should do repairs are from 2am-4am. These are ther hours where we have low usage.
+- Many of our starting and ending locations are quite close to one another, but we should explore where to move the bikes more during the night to meet customer needs.
